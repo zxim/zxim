@@ -37,7 +37,7 @@ I'm Min, a security expert from Korea<img src="https://github.com/zxim/zxim/blob
 <br>
 
 ## 📫Email
-tlaals7241@gmail.com
+tlaals7241@gmail.com <br>
 tlaals44@naver.com
 
 
