@@ -44,4 +44,4 @@ tlaals44@naver.com
 <br>
 
 ## Notion
-[Notion Link]()
+[Notion Link](https://www.notion.so/13407e510770809892aaec9b17d469d3?pvs=4)
