@@ -1,13 +1,15 @@
-# 🤗Hi! Nice to see you.
+# 🤗Welcome to Min`s Git! 
 
-Welcome to my page! <br>
+<br>
+
 I'm Min, a security expert from Korea<img src="https://github.com/zxim/zxim/blob/main/korea_flag.png" alt="Korea" width="20" height="20" style="vertical-align: -20px;">, delving into full-stack development to build secure and efficient applications.
 
 <br>
 
-<br>
+**See more contents. Click my [Velog Link](https://velog.io/@tlaals44/series)** [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@tlaals44/series)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zxim&show_icons=true&theme=radical)
+
+<br>
 
 ## Tech Stack
 
@@ -22,4 +24,15 @@ I'm Min, a security expert from Korea<img src="https://github.com/zxim/zxim/blob
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+<br>
+
+<br>
+
+
+## My git stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zxim&show_icons=true&theme=radical)
+
+
 
