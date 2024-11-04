@@ -34,5 +34,14 @@ I'm Min, a security expert from Korea<img src="https://github.com/zxim/zxim/blob
 ## My git stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zxim&show_icons=true&theme=radical)
 
+<br>
+
+## 📫Email
+tlaals7241@gmail.com
+tlaals44@naver.com
 
 
+<br>
+
+## Notion
+[Notion Link]()
