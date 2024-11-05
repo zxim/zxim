@@ -44,4 +44,4 @@ tlaals44@naver.com
 <br>
 
 ## Notion
-[Notion Link](https://www.notion.so/13407e510770809892aaec9b17d469d3?pvs=4)
+**[Notion Link](https://www.notion.so/13407e510770809892aaec9b17d469d3?pvs=4)** [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/13407e510770809892aaec9b17d469d3?pvs=4)
