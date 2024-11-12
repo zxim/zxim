@@ -5,7 +5,7 @@
 <img
   src="https://render.gitanimals.org/farms/zxim"
   width="1000"
-  height="500"
+  height="600"
 />
 </a>
    
