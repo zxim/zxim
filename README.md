@@ -3,10 +3,11 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/zxim"
-  width="1200"
-  height="600"
+  width="600"
+  height="300"
 />
 </a>
+   
 
 
 <br>
