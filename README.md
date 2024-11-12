@@ -1,8 +1,17 @@
 # 🤗Welcome to Min`s Git! 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zxim"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 <br>
 
-👋 I'm Min, a security expert from Korea🇰🇷, delving into full-stack development to build secure and efficient applications.
+👋 I'm Min, a security expert from Korea, delving into full-stack development to build secure and efficient applications.
 
 <br>
 
