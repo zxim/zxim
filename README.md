@@ -1,14 +1,13 @@
 # 🤗Welcome to Min`s Git! 
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/zxim"
-  width="1000"
-  height="600"
-/>
-</a>
-   
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/670432209612886284/draw"
+        width="1000"
+        height="600"
+        alt="gitanimals"
+      />
+    </a>
 
 
 <br>
