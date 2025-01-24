@@ -13,7 +13,7 @@
 
 <br>
 
-👋 I'm Min, a security expert from Korea, delving into full-stack development to build secure and efficient applications.
+👋 I'm Min, a security expert from Korea, delving into frontend development.
 
 <br>
 
